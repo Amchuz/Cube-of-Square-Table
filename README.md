@@ -1,2 +1,2 @@
-# Cube-of-Square-Table
+# Cube of Square Table
 Hackrithmitic hackathon submission
